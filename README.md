@@ -1,3 +1,13 @@
+# This repository has been deprecated. Please use New Repo Name instead.
+
+This version is now legacy and will not receive any further patches.  
+This project is no longer actively maintained. For the latest updates, features, and bug fixes, please refer to the new repository.
+
+|Before|After|
+|---|---|
+|Klaf|[dataply](https://github.com/izure1/dataply)|
+|KlafDocument|[document-dataply](https://github.com/izure1/document-dataply)|
+
 # Klaf
 
 [![jsdelivr](https://data.jsdelivr.com/v1/package/npm/klaf.js/badge)](https://www.jsdelivr.com/package/npm/klaf.js)
@@ -207,3 +217,4 @@ The Klaf library is the new name for the TissueRoll library.
 ## License
 
 MIT LICENSE
+
